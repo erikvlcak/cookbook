@@ -1,0 +1,30 @@
+* {
+    background-color: rgb(255, 190, 190);
+}
+
+body {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+p{
+
+}
+
+a, button {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large;
+    color: brown;
+    background-color: rgb(240, 240, 240);
+}
+
+button {
+    border-color: black;
+    border-radius: 3%;
+    padding: 20px;
+    margin: 0px 10px 0 10px;
+}
