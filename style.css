@@ -1,17 +1,30 @@
 * {
     background-color: rgb(255, 190, 190);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    font-style: italic;
+}
+
+.hell {
+    border: 5px white solid;
+}
+
+.quote {
+    text-decoration: underline;
 }
 
 body {
     text-align: center;
+    width: 50%;
+    margin: auto;
+    
 }
 
 ul {
     list-style-type: none;
-}
-
-p{
-
+    padding: 0px;
 }
 
 a, button {
